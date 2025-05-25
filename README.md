@@ -77,13 +77,3 @@ The project includes several visualizations:
 - Review length analysis by rating
 - Additional insights in the presentation file
 
-## Authors
-[Your Name/Team]
-
-## License
-[Specify License]
-import pandas as pd
-from analysis_utils import generate_full_analysis
-
-df = pd.read_csv("fact_customer_reviews_with_sentiment.csv")
-analysis_results = generate_full_analysis(df)
