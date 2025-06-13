@@ -151,9 +151,7 @@ pip install -r requirements.txt
 
 ## ❓ Questions & Contributions
 
-<<<<<<< HEAD
-*For questions or contributions, please open an issue or submit a pull request.*
-=======
+
 2. Exploratory Data Analysis (`eda.ipynb`):
    - Generates summary statistics
    - Creates visualizations for:
@@ -179,4 +177,3 @@ The project includes several visualizations:
 - Review length analysis by rating
 - Additional insights in the presentation file
 
->>>>>>> c502793e30bf2a3ddeb4b1e9e1478a0c981a3776
