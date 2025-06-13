@@ -151,4 +151,32 @@ pip install -r requirements.txt
 
 ## ❓ Questions & Contributions
 
+<<<<<<< HEAD
 *For questions or contributions, please open an issue or submit a pull request.*
+=======
+2. Exploratory Data Analysis (`eda.ipynb`):
+   - Generates summary statistics
+   - Creates visualizations for:
+     - Rating distribution
+     - Sentiment analysis
+     - Review length analysis
+
+3. Review Enrichment (`customer_reviews_enrichment.py`):
+   - Performs sentiment analysis
+   - Extracts additional features from review text
+
+## Key Features
+- Comprehensive data cleaning and preprocessing
+- Feature engineering and selection
+- Statistical analysis and insights
+- Visual representations of key findings
+- SQL integration for data extraction
+
+## Visualizations
+The project includes several visualizations:
+- Distribution of customer ratings
+- Sentiment polarity vs ratings
+- Review length analysis by rating
+- Additional insights in the presentation file
+
+>>>>>>> c502793e30bf2a3ddeb4b1e9e1478a0c981a3776
