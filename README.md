@@ -101,7 +101,7 @@ Marketing-Analytics/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/Marketing-Analytics.git
+    git clone https://github.com/Mohammadosama55/Marketing-Analytics.git
     cd Marketing-Analytics
     ```
 
